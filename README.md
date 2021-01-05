@@ -1,5 +1,5 @@
-# Project Overview
-This program calculates numerically the orbital motion of two masses, around a central mass, using the 4th Order Runga Kutta algorithm and 
+# Overview
+This program calculates numerically the orbital motion of two masses around a central mass using the 4th Order Runga Kutta algorithm and 
 provides output for analysis.
 
 
