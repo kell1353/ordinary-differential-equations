@@ -1,0 +1,19 @@
+&masses
+	primary_mass = 100.0, 
+	planet_mass_1 = 5.0, 
+	planet_mass_2 = 0.03
+/
+&initial_conditions
+	initial_time = 0.0,
+	initial_pos_1 = 50.0, 0.0, 
+	initial_pos_2 = 60.0, 0.0,
+	initial_vel_1 = 0.0, 1.414, 
+	initial_vel_2 = 0.0, .707,
+/
+&solution_parameters
+	final_time = 1500.0,
+	n_steps = 10000
+/
+&output
+	output_file = 'satellite_motion.dat'
+/
